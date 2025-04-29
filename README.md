@@ -15,17 +15,17 @@ Analyzes number trends year by year with heatmaps.
 📈 Statistical Breakdown
 Calculates:
 
-  Average/Min/Max sum of numbers
+- Average/Min/Max sum of numbers
   
-  Odd/Even and High/Low distributions
+- Odd/Even and High/Low distributions
   
-  Number range statistics
+- Number range statistics
   
-  Consecutive number pairs
+- Consecutive number pairs
   
-  Hot and cold numbers based on expected frequency
+- Hot and cold numbers based on expected frequency
 
-  Number gap patterns
+- Number gap patterns
 
 🖼️ Visualizations
 Generates .png charts and heatmaps using matplotlib and seaborn.
