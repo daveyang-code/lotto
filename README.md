@@ -38,3 +38,9 @@ Make sure you have the following installed:
 ```
 pip install requests beautifulsoup4 pandas matplotlib seaborn
 ```
+
+# Images
+
+![image](https://github.com/user-attachments/assets/16ff23eb-92dd-42fe-9509-bbd6f390020d)
+
+![image](https://github.com/user-attachments/assets/ab702474-8e3c-4fc1-aab3-e4900c0e79e5)
